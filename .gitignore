@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+audit/original-app.js
+*.zip
+.sites/
+dist/
+.env*
+!.env.example
